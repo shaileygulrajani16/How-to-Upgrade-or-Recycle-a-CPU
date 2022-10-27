@@ -23,7 +23,7 @@ CSS
 
 Kelly Katillius: kellykatilius (github.com)
 
-Jason Chang: 
+Jason Chang: JWC71 (github.com)
 
 Christina Voltz: chroltz (github.com)
 
