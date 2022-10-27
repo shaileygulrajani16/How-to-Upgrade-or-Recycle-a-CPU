@@ -4,6 +4,8 @@ body, html {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+p { font-size: 16px; }
+
 /* Style the header */
 .header {
   padding: 10px;
