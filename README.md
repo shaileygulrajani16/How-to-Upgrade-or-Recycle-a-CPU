@@ -24,7 +24,7 @@ Website Link: Pitt Fuego (chroltz.github.io)
 
 Kelly Katillius: kellykatilius (github.com)
 
-Jason Chang: 
+Jason Chang: https://github.com/JWC71
 
 Christina Voltz: chroltz (github.com)
 
