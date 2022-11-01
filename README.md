@@ -30,3 +30,4 @@ Christina Voltz: chroltz (github.com)
 
 Jaden Burroughs: Jaden2924 (github.com)
 
+Shailey Gulrajani: shaileygulrajani16 (github.com)
