@@ -3,12 +3,15 @@
 ## About the Project
 
 
-Provided here is a manual for replacing and recycling a CPU.
-
-There is a page with a step by step guide, recycling resources, general benefits, and a variety of other documentation. (FAQ, Diversity Statement, Licence,Etc.) 
-
-From the start page there will be general information from which you may navigate to the other resources provided. 
-
+Provided here is a manual for replacing and recycling a CPU, and all the steps that may come in-between.
+ 
+This project seeks to provide resources to help users replace and recycle their CPU. Not only for better computer function but to reduce E-waste as well.
+ 
+On launch the landing page has an introduction and general information. To the left there is a sidebar to navigate through the pages. The pages contain various information from buying parts to recycling resources.
+ 
+Here in GitHub, there are other documents such as a license and diversity statement.
+ 
+We hope you enjoy it!
 
 ## Built With
 
@@ -19,15 +22,17 @@ CSS
 
 ## Usage
 
-Website Link: Pitt Fuego (chroltz.github.io)
+Website Link: https://chroltz.github.io/How-to-Upgrade-or-Recycle-a-CPU/ (TEMP)
 
 ## Contributors
 
-Kelly Katillius: kellykatilius (github.com)
+Kelly Katillius:  kellykatilius (github.com), https://github.com/kellykatilius
 
-Jason Chang: https://github.com/JWC71
+Jason Chang: JCWC71 (github.com),  https://github.com/JWC71 
 
-Christina Voltz: chroltz (github.com)
+Christina Voltz: chroltz (github.com), https://github.com/chroltz
 
-Jaden Burroughs: Jaden2924 (github.com)
+Jaden Burroughs: Jaden2924 (github.com), https://github.com/Jaden2924
+
+
 
