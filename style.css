@@ -3,16 +3,17 @@ body, html {
   margin: 0;
   margin-left: 80px;
   font-family: Arial, Helvetica, sans-serif;
-background-color: #bdc78f;
+  background-color: #bdc78f;
+  color: #554a32
 }
 
-p { font-size: 16px; }
+p { font-size: 16px; color:#554a32  }
 /* Style the header */
 .header {
   padding: 10px;
   text-align: center;
-  background: #617B30;
-  color: white;
+  background: #556b2f;
+  color: #d0be8f;
   font-size: 30px;
 }
 
@@ -20,9 +21,31 @@ p { font-size: 16px; }
 nav {
   float: left;
   width: 10%;
-  background: 617B30;
+  background: ;
   padding: 20px;
 }
+
+
+/* unvisited link */
+a:link {
+  color: #554a32;
+}
+
+/* visited link */
+a:visited {
+  color: #554a32;
+}
+
+/* mouse over link */
+a:hover {
+  color: #f4f6dc;
+}
+
+/* selected link */
+a:active {
+  color: #554a32;
+}
+
 
 /* Style the list inside the menu */
 nav ul {
@@ -36,7 +59,7 @@ nav ul {
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
   left: 0;
-  background-color: #4A2511; /* Brown */
+  background-color: #6a5d3e; /* Brown */
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
 }
@@ -46,7 +69,7 @@ nav ul {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
-  color: #818181;
+  color: #b8be86;
   display: block;
 }
 
@@ -58,6 +81,7 @@ nav ul {
 /* Style page content */
 .main {
   margin-left: 160px; /* Same as the width of the sidebar */
+  margin-right: 160px;
   padding: 0px 10px;
 }
 
@@ -312,6 +336,7 @@ this CSS element centers text elements*/
         padding-bottom: : 1000px;
     }
 }
+
 
 
 #logo {
